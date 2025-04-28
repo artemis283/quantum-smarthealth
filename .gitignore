@@ -1,0 +1,14 @@
+physionet.org/
+.DS_Store
+plan.txt
+chronic_kidney_data_with_id.csv
+chronic_kidney_data_relevant.csv
+ipynb_checkpoints/
+wandb/
+*.pth
+*.pt
+*.csv
+*.json
+*.jsonl
+.ipynb_checkpoints/
+__pycache__/
